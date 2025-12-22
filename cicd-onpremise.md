@@ -794,9 +794,8 @@ http {
 Demo project สำหรับเรียนรู้การใช้ GitHub Actions Self-Hosted Runner แบบ Pull-based Model
 
 ## 🏗️ Architecture
-```
+
 Runner (Local) → Polling → GitHub API → Pull Jobs → Execute Locally
-```
 
 ## 🚀 Features
 
